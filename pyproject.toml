@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "module29"
+version = "0.1.0"
+description = ""
+authors = ["Strategs <127782103+Strategs@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scrapy = "^2.10.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
